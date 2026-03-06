@@ -1,0 +1,10 @@
+\\?\C:\Users\Gami\Documents\React\hivemind-wallet\target\sbf-solana-solana\release\deps\libsolana_instruction-1ec76fe4aae35146.rmeta: C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-instruction-2.3.3\src/lib.rs C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-instruction-2.3.3\src\account_meta.rs C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-instruction-2.3.3\src\error.rs C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-instruction-2.3.3\src\syscalls.rs
+
+\\?\C:\Users\Gami\Documents\React\hivemind-wallet\target\sbf-solana-solana\release\deps\libsolana_instruction-1ec76fe4aae35146.rlib: C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-instruction-2.3.3\src/lib.rs C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-instruction-2.3.3\src\account_meta.rs C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-instruction-2.3.3\src\error.rs C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-instruction-2.3.3\src\syscalls.rs
+
+\\?\C:\Users\Gami\Documents\React\hivemind-wallet\target\sbf-solana-solana\release\deps\solana_instruction-1ec76fe4aae35146.d: C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-instruction-2.3.3\src/lib.rs C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-instruction-2.3.3\src\account_meta.rs C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-instruction-2.3.3\src\error.rs C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-instruction-2.3.3\src\syscalls.rs
+
+C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-instruction-2.3.3\src/lib.rs:
+C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-instruction-2.3.3\src\account_meta.rs:
+C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-instruction-2.3.3\src\error.rs:
+C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-instruction-2.3.3\src\syscalls.rs:

@@ -1,0 +1,9 @@
+﻿Deploying cluster: https://api.devnet.solana.com
+Upgrade authority: C:\Users\Gami/.config/solana/id.json
+Deploying program "hivemind"...
+Program path: C:\Users\Gami\Documents\React\hivemind-wallet\target\deploy\hivemind.so...
+Program Id: 2wRN9Nrd5USVo5oVWjyfYiRgN6nrJMW5vDpscx7iRRZn
+
+Signature: 3Mygoz6LuA9pBWof8cLuSWKhxGin5txmbsB8mbEtCocrh77dMrjui24gpxUgLyUdHz55GyJUyEtFoAUAKwtBGypr
+
+Deploy success

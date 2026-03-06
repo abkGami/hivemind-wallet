@@ -1,0 +1,64 @@
+﻿
+> hivemind-agents@1.0.0 dev
+> tsx watch src/index.ts
+
+
+≡ƒºá HIVEMIND WALLET ΓÇö Colony Runtime
+
+[RPC][23:20:36] Connected to https://solana-mainnet.g.alchemy.com/v2/0jyTmYXyvdZEslnSkpkLd
+[LLM][23:20:37] Initialised with model: llama3-70b-8192
+node.exe : [Bootstrap] Fatal error: [WalletManager.loadAuthorityKeypair] 
+AUTHORITY_KEYPAIR env var is missing or empty. Set it to a JSON byte array of 
+64 secret-key bytes.
+At C:\Program Files\nodejs\npm.ps1:29 char:3
++   & $NODE_EXE $NPM_CLI_JS $args
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ([Bootstrap] Fat...cret-key bytes. 
+   :String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+11:20:50 PM [tsx] Return key Rerunning...
+c
+≡ƒºá HIVEMIND WALLET ΓÇö Colony Runtime
+
+[RPC][23:20:52] Connected to https://solana-mainnet.g.alchemy.com/v2/0jyTmYXyvdZEslnSkpkLd
+[LLM][23:20:52] Initialised with model: llama3-70b-8192
+[Bootstrap] Fatal error: [WalletManager.loadAuthorityKeypair] 
+AUTHORITY_KEYPAIR env var is missing or empty. Set it to a JSON byte array of 
+64 secret-key bytes.
+11:20:56 PM [tsx] Return key Rerunning...
+c
+≡ƒºá HIVEMIND WALLET ΓÇö Colony Runtime
+
+[RPC][23:20:58] Connected to https://solana-mainnet.g.alchemy.com/v2/0jyTmYXyvdZEslnSkpkLd
+[LLM][23:20:58] Initialised with model: llama3-70b-8192
+[Bootstrap] Fatal error: [WalletManager.loadAuthorityKeypair] 
+AUTHORITY_KEYPAIR env var is missing or empty. Set it to a JSON byte array of 
+64 secret-key bytes.
+11:21:02 PM [tsx] Return key Rerunning...
+c
+≡ƒºá HIVEMIND WALLET ΓÇö Colony Runtime
+
+[RPC][23:21:04] Connected to https://solana-mainnet.g.alchemy.com/v2/0jyTmYXyvdZEslnSkpkLd
+[LLM][23:21:04] Initialised with model: llama3-70b-8192
+[Bootstrap] Fatal error: [WalletManager.loadAuthorityKeypair] 
+AUTHORITY_KEYPAIR env var is missing or empty. Set it to a JSON byte array of 
+64 secret-key bytes.
+11:21:09 PM [tsx] Return key Rerunning...
+c
+≡ƒºá HIVEMIND WALLET ΓÇö Colony Runtime
+
+[RPC][23:21:11] Connected to https://solana-mainnet.g.alchemy.com/v2/0jyTmYXyvdZEslnSkpkLd
+[LLM][23:21:11] Initialised with model: llama3-70b-8192
+[Bootstrap] Fatal error: [WalletManager.loadAuthorityKeypair] 
+AUTHORITY_KEYPAIR env var is missing or empty. Set it to a JSON byte array of 
+64 secret-key bytes.
+11:21:21 PM [tsx] Return key Rerunning...
+c
+≡ƒºá HIVEMIND WALLET ΓÇö Colony Runtime
+
+[RPC][23:21:23] Connected to https://solana-mainnet.g.alchemy.com/v2/0jyTmYXyvdZEslnSkpkLd
+[LLM][23:21:23] Initialised with model: llama3-70b-8192
+[Bootstrap] Fatal error: [WalletManager.loadAuthorityKeypair] 
+AUTHORITY_KEYPAIR env var is missing or empty. Set it to a JSON byte array of 
+64 secret-key bytes.

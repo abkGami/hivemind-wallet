@@ -1,0 +1,48 @@
+﻿anchor : info: uninstalling toolchain 'solana'
+At line:1 char:11
++ $output = anchor build 2>&1 ; $output | Out-File "build2.txt" -Encodi ...
++           ~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (info: uninstalling toolchain 'sol 
+   ana':String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+info: toolchain 'solana' uninstalled
+ Downloading crates ...
+  Downloaded ark-poly v0.4.2
+  Downloaded either v1.15.0
+  Downloaded derivative v2.2.0
+  Downloaded ark-std v0.4.0
+  Downloaded ark-ff v0.4.2
+  Downloaded ark-ec v0.4.2
+  Downloaded curve25519-dalek v3.2.1
+   Compiling rustversion v1.0.22
+   Compiling semver v1.0.27
+   Compiling blake3 v1.7.0
+   Compiling thiserror v1.0.69
+   Compiling rustc_version v0.4.1
+   Compiling memoffset v0.9.1
+   Compiling getrandom v0.2.17
+   Compiling bs58 v0.5.1
+   Compiling solana-program v2.0.3
+   Compiling anchor-attribute-program v0.31.1
+   Compiling anchor-derive-serde v0.31.1
+   Compiling anchor-derive-accounts v0.31.1
+   Compiling solana-sdk-macro v2.0.3
+   Compiling anchor-attribute-constant v0.31.1
+   Compiling anchor-attribute-access-control v0.31.1
+   Compiling anchor-attribute-error v0.31.1
+   Compiling anchor-attribute-account v0.31.1
+   Compiling anchor-attribute-event v0.31.1
+   Compiling anchor-derive-space v0.31.1
+   Compiling base64 v0.21.7
+   Compiling anchor-lang v0.31.1
+   Compiling hivemind v0.1.0 
+(C:\Users\Gami\Documents\React\hivemind-wallet\programs\hivemind)
+    Finished `release` profile [optimized] target(s) in 1m 24s
+Error: `idl-build` feature is missing. To solve, add
+
+[features]
+idl-build = ["anchor-lang/idl-build"]
+
+in `"\\\\?\\C:\\Users\\Gami\\Documents\\React\\hivemind-wallet\\programs\\hivem
+ind\\Cargo.toml"`.

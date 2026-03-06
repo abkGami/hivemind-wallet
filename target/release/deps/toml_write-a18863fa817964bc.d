@@ -1,0 +1,11 @@
+\\?\C:\Users\Gami\Documents\React\hivemind-wallet\target\release\deps\libtoml_write-a18863fa817964bc.rmeta: C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml_write-0.1.2\src/lib.rs C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml_write-0.1.2\src\key.rs C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml_write-0.1.2\src\string.rs C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml_write-0.1.2\src\value.rs C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml_write-0.1.2\src\write.rs
+
+\\?\C:\Users\Gami\Documents\React\hivemind-wallet\target\release\deps\libtoml_write-a18863fa817964bc.rlib: C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml_write-0.1.2\src/lib.rs C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml_write-0.1.2\src\key.rs C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml_write-0.1.2\src\string.rs C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml_write-0.1.2\src\value.rs C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml_write-0.1.2\src\write.rs
+
+\\?\C:\Users\Gami\Documents\React\hivemind-wallet\target\release\deps\toml_write-a18863fa817964bc.d: C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml_write-0.1.2\src/lib.rs C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml_write-0.1.2\src\key.rs C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml_write-0.1.2\src\string.rs C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml_write-0.1.2\src\value.rs C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml_write-0.1.2\src\write.rs
+
+C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml_write-0.1.2\src/lib.rs:
+C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml_write-0.1.2\src\key.rs:
+C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml_write-0.1.2\src\string.rs:
+C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml_write-0.1.2\src\value.rs:
+C:\Users\Gami\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml_write-0.1.2\src\write.rs:

@@ -1,0 +1,31 @@
+[toolchain]
+anchor_version = "0.31.1"
+solana_version = "2.1.21"
+
+[features]
+resolution = true
+skip-lint = false
+
+[programs.devnet]
+hivemind = "2wRN9Nrd5USVo5oVWjyfYiRgN6nrJMW5vDpscx7iRRZn"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "devnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
+
+[test]
+startup_wait = 10000
+shutdown_wait = 2000
+upgradeable = false
+
+[test.validator]
+bind_address = "0.0.0.0"
+url = "https://api.devnet.solana.com"
+ledger = '.anchor\test-ledger'
+rpc_port = 8899
